@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Foodiez(Food%20Website)/static/css/main.e58c339a.css",
+    "main.js": "/Foodiez(Food%20Website)/static/js/main.12b976f6.js",
+    "static/media/bg.jpg": "/Foodiez(Food%20Website)/static/media/bg.57c2aaa406400cb289fb.jpg",
+    "static/media/header_image.jpg": "/Foodiez(Food%20Website)/static/media/header_image.1dc0f346d407fc577d16.jpg",
+    "index.html": "/Foodiez(Food%20Website)/index.html",
+    "static/media/loader.svg": "/Foodiez(Food%20Website)/static/media/loader.fa0a63c5780ec4e36c8aa3706db53def.svg",
+    "main.e58c339a.css.map": "/Foodiez(Food%20Website)/static/css/main.e58c339a.css.map",
+    "main.12b976f6.js.map": "/Foodiez(Food%20Website)/static/js/main.12b976f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58c339a.css",
+    "static/js/main.12b976f6.js"
+  ]
+}
